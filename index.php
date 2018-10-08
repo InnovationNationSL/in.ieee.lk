@@ -462,11 +462,27 @@ For more information, feel free to contact us.
 
 				<div class="cd-timeline__content js-cd-content">
 					<font size="5" color="">Workshop 2: Making Sense to Those That Matter</font>
-					<p>The second workshop of IEEE Innovation Nation Sri Lanka 2018 is based on Soft Skills Development. </p>
+					<p>The second workshop of IEEE Innovation Nation Sri Lanka 2018 was based on Soft Skills Development. </p>
 					
 					<span class="cd-timeline__date">September 11</span>
 				</div> <!-- cd-timeline__content -->
 			</div> <!-- cd-timeline__block -->	
+												   
+												   
+							<div class="cd-timeline__block js-cd-block">
+				<div class="cd-timeline__img cd-timeline__img--picture js-cd-img">
+					<img src="timeline/img/cd-icon-location.svg" alt="Milestone">
+				</div> <!-- cd-timeline__img -->
+
+				<div class="cd-timeline__content js-cd-content">
+					<font size="5" color="">Workshop 3: Frontline: Playing the Market Right </font>
+					<p>The third workshop of IEEE Innovation Nation Sri Lanka 2018 was based on implying the importance of carrying out proper qualitative and quantitative assessment of the market was here. </p>
+										   <br>
+		        
+					<span class="cd-timeline__date">September 26</span>
+				</div> <!-- cd-timeline__content -->
+			</div> <!-- cd-timeline__block -->	
+												   
 												   
 												   
 							<div class="cd-timeline__block js-cd-block">
@@ -475,14 +491,13 @@ For more information, feel free to contact us.
 				</div> <!-- cd-timeline__img -->
 
 				<div class="cd-timeline__content js-cd-content">
-					<font size="5" color="">Workshop 3: Frontline: Playing the Market Right </font>
-					<p>The third workshop of IEEE Innovation Nation Sri Lanka 2018 is based on implying the importance of carrying out proper qualitative and quantitative assessment of the market is here. </p>
+					<font size="5" color="">Workshop 4: Reinventing Business Models in a Disruptive World </font>
+					<p>The 4th installment of IEEE INSL 2018 workshop series on ‘Reinventing Business Models in a Disruptive World’ is here.  </p>
 										   <br>
-		        <align ="right"><small> <a href="https://in.ieee.lk/events/pmr_workshop" >Register to this event >></a> </small> </align>
-					<span class="cd-timeline__date">September 26</span>
+		        <align ="right"><small> <a href="https://in.ieee.lk/events/ws4" >Register to this event >></a> </small> </align>
+					<span class="cd-timeline__date">October 11</span>
 				</div> <!-- cd-timeline__content -->
-			</div> <!-- cd-timeline__block -->	
-												   
+			</div> <!-- cd-timeline__block -->						   
 												   
 																	   
 							<div class="cd-timeline__block js-cd-block">
@@ -491,7 +506,7 @@ For more information, feel free to contact us.
 				</div> <!-- cd-timeline__img -->
 
 				<div class="cd-timeline__content js-cd-content">
-					<font size="5" color="">Workshop 4 & 5 </font>
+					<font size="5" color="">Workshop  5 </font>
 					<p>Information will be updated. </p>
 					<span class="cd-timeline__date">October</span>
 				</div> <!-- cd-timeline__content -->
